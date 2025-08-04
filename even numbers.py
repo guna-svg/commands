@@ -38,7 +38,6 @@ while True:
         break
     g=g+1"""
 print("Hello")
-dhkjdhjkdhsa
 
 
         
